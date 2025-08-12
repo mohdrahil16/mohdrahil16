@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Rahil 👋
 
-<!--
-**mohdrahil16/mohdrahil16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst & Power Platform Developer** with 2+ years of experience creating impactful business solutions and insightful data analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- 💻 **Power Platform:** Power Apps (Canvas & Model-Driven), Power Automate, Power BI, Dataverse  
+- 🐍 **Programming & Data Analysis:** Python (pandas, NumPy), SQL (MySQL, PostgreSQL, SQLite), DAX, Power Fx  
+- 📊 **BI & ETL Tools:** Tableau, Power Query Editor, Tableau Prep  
+- ☁️ **Cloud & Integration:** Azure AD, SharePoint Online, Microsoft 365 services, API integrations  
+- 🤖 **AI & Automation:** AI Builder for intelligent document processing  
+- ⚙️ **Methodologies:** Agile (Scrum), Test Driven Development  
+
+---
+
+### 📫 Get in Touch
+
+Feel free to reach out for freelance projects or collaborations:  
+📧 Email: [mohdrahil1412@gmail.com](mailto:mohdrahil1412@gmail.com)  
+
+---
+
+I'm passionate about solving complex business problems through analytics, automation, and visualization. Explore my repositories to see my work!
+
+---
+
+⭐️ Thanks for visiting my profile!
